@@ -1,0 +1,10 @@
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\bin\Debug\DAL.dll.config
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\bin\Debug\DAL.dll
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\bin\Debug\DAL.pdb
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\bin\Debug\DTO.dll
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\bin\Debug\DTO.pdb
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\obj\Debug\DAL.dll
+D:\Tech_GS\DoAnCoSo\source\QuanLyNhaTro\DAL\obj\Debug\DAL.pdb
